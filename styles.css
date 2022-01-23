@@ -58,3 +58,7 @@ body {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
 }
+.body_section .links a:hover {
+	background: #69a6ce;
+        color: #fff;
+}
