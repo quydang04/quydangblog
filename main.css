@@ -12,8 +12,8 @@
    transform: translate(-50%, -50%);
    text-align: center;
    background-color: white;
-   height: 15rem;
-   width: 50rem;
+   height: 18rem;
+   width: 55rem;
    border-radius: 20px;
    backdrop-filter: blur(10px);
    background-color: rgba(255, 255, 255, 0.3);
@@ -22,7 +22,7 @@
 .main_body .main_title_404_section {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
-    
+    padding-top: 20px;
 }
 .main_body .main_title_404_section h1 {
     font-size: 7rem;
