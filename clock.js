@@ -22,7 +22,7 @@ function showInfo() {
    var second = "0" + second;
  };
  
- var print = "Current time: " + hour + ":" + minute + ":" + second;
+ var print = "Giờ hiện tại: " + hour + ":" + minute + ":" + second;
  document.getElementById("test").innerHTML = print;
  
  };
