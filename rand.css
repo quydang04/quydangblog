@@ -67,7 +67,7 @@
   }
   .main_body .content .btn .btn3 {
     padding: 12px 25px;
-    margin: 3px 10px;
+    margin: 3px 2px;
     background-color: DodgerBlue;
     border: none;
     color: white;
@@ -79,11 +79,4 @@
  }
  .main_body .content .btn .btn3:hover {
      background-color: RoyalBlue;
-   }
-.main_body .content .recent {
-   padding: 10px 5px;
-   font-family: Arial, Helvetica, sans-serif;
-}
-.main_body .content #length {
-    display: inline-block;
 }
