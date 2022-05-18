@@ -1,3 +1,3 @@
 setTimeout (() => {
-        window.location.href = 'https://quydangblog.live';
+        window.location.href = '/';
     },5000);
